@@ -1,6 +1,6 @@
 # Cube Labirynth
 
-![Project Image](https://ak5.picdn.net/shutterstock/videos/10232675/thumb/1.jpg)
+![Project Image](https://i.imgur.com/ReINR0M.png?1)
 
 > Cube labyrinth where the goal is to find a way out of the labyrinth for a certain period of time.
 
@@ -32,7 +32,7 @@ If the slider has timed out, then the inscription appears on the screen that the
 
 Each time you start the game, a maze will be generated as new, different from the old.
 
-![Maze Image](https://i.imgur.com/ReINR0M.png?1)
+![Maze Image](https://ak5.picdn.net/shutterstock/videos/10232675/thumb/1.jpg)
 
 #### Technologies
 
