@@ -18,6 +18,8 @@
 
 ## Description
 
+Each time you start the game, a maze will be generated as new, different from the old.
+
 In the upper left point of the screen you can see a slider that provides information on how much time is left before the end of the game. The game lasts 2 minutes and 30 seconds
 
 ![Time Line Image](https://i.imgur.com/9dz9nEM.jpg?1)
@@ -30,10 +32,6 @@ If the slider has timed out, then the inscription appears on the screen that the
 
 ![Lost Inscription Image](https://i.imgur.com/Vw6Hh2J.png?1)
 
-Each time you start the game, a maze will be generated as new, different from the old.
-
-![Maze Image](https://ak5.picdn.net/shutterstock/videos/10232675/thumb/1.jpg)
-
 #### Technologies
 
 - C++
@@ -45,7 +43,9 @@ Each time you start the game, a maze will be generated as new, different from th
 
 ## How To Use
 
-#### Installation
+#### Installation for LINUX
+Open your terminal and type the next commands
+
 1. Download the game in your current directory
 ```
 git clone https://github.com/Darkness-ua/cube-labyrinth-game
