@@ -108,6 +108,6 @@ SOFTWARE.
 
 - LinkedIn - [Viacheslav Taranushenko](https://www.linkedin.com/in/viacheslav-taranushenko-727466187/)
 - GitHub - [@Darkness-ua](https://github.com/Darkness-ua)
-- Twitter - [@vtaranushenko_](https://twitter.com/vtaranushenko_)
+- Twitter - [@viataranushenko](https://twitter.com/viataranushenko)
 
 [Back To The Top](#cube-labirynth)
