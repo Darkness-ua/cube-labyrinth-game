@@ -107,7 +107,7 @@ SOFTWARE.
 ## Author Info
 
 - LinkedIn - [Viacheslav Taranushenko](https://www.linkedin.com/in/viacheslav-taranushenko-727466187/)
-- GitHub - [@Darkness-ua](https://github.com/Darkness-ua)
+- GitHub - [@taranchik](https://github.com/taranchik)
 - Twitter - [@viataranushenko](https://twitter.com/viataranushenko)
 
 [Back To The Top](#cube-labirynth)
