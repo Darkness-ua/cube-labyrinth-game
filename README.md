@@ -59,7 +59,7 @@ cd cube-labyrinth-game/qtglgame/builds/
 ./qtglgame
 ```
 
-4. Do not forget to click on maximize the window, for example, since you do not see the cube
+4. Do not forget to click on maximize the window, since you could not see the cube
 
 ![Maximize Image](https://i.imgur.com/nmK9f37.png?1)
 
