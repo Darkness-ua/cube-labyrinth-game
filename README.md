@@ -48,7 +48,7 @@ Open your terminal and type the next commands
 
 1. Download the game in your current directory
 ```
-git clone https://github.com/Darkness-ua/cube-labyrinth-game
+git clone https://github.com/taranchik/cube-labyrinth-game
 ```
 2. Go to the directory with the executable file
 ```
@@ -108,6 +108,7 @@ SOFTWARE.
 
 - LinkedIn - [Viacheslav Taranushenko](https://www.linkedin.com/in/viacheslav-taranushenko-727466187/)
 - GitHub - [@taranchik](https://github.com/taranchik)
+- GitLab - [@taranchik](https://gitlab.com/taranchik)
 - Twitter - [@viataranushenko](https://twitter.com/viataranushenko)
 
 [Back To The Top](#cube-labirynth)
